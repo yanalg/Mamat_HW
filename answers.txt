@@ -1,0 +1,3 @@
+1. we reused many code bits, especially the main function, creating the histogram and checking if input is valid. we could reduce the copying of code bits if we include header file of hist.c (hist.h) in median.c and max.c and min.c and then we compile and link them together.
+
+2.after running some tests we came to the conclution that the grades we randomly generated are uniformly distributed.
