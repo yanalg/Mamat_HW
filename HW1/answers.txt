@@ -1,0 +1,5 @@
+a. we estimate that it would take a lot of time to go over the links and count the words we are looking for
+b.computers make life easier and it saves us time. we can apply this method to help us shop online on a budget
+(we visit many links and look for an item we want and then choose the lowest price)
+
+c)we could exclude the links we already visited.
